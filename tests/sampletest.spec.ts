@@ -18,6 +18,10 @@ test('lanuch flipkart',async( {page} )=>{
     await page.goto('https://www.flipkart.com/');
 })
 
+test('lanuch flipkart',async( {page} )=>{
+    await page.goto('https://www.flipkart.com/');
+})
+
 test('close the labs',async({page})=>{
 await page.close();
 })
