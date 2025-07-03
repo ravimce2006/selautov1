@@ -18,8 +18,8 @@ test('lanuch flipkart',async( {page} )=>{
     await page.goto('https://www.flipkart.com/');
 })
 
-test('lanuch flipkart',async( {page} )=>{
-    await page.goto('https://www.flipkart.com/');
+test('lanuch organge hrm',async( {page} )=>{
+    await page.goto('https://www.orangehrm.com/');
 })
 
 test('close the labs',async({page})=>{
